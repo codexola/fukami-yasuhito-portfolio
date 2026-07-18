@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "fukami-yasuhito-portfolio",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
@@ -22,6 +21,5 @@
         }
       ]
     }
-  ],
-  "rewrites": []
+  ]
 }
