@@ -77,15 +77,6 @@ var PORTFOLIO_PROJECTS = {
       tech: "B2B SaaS / Product Site"
     },
     {
-      name: "SmartHR",
-      url: "https://smarthr.co.jp/",
-      image: "assets/previews/smarthr.jpg",
-      category: "HR Tech",
-      summary: "クラウド人事労務ソフトのコーポレート／プロダクトサイト。業務課題から導入価値への導線設計。",
-      impact: "HR SaaSの信頼形成とリード獲得",
-      tech: "SaaS / Corporate"
-    },
-    {
       name: "Money Forward",
       url: "https://moneyforward.com/",
       image: "assets/previews/moneyforward.jpg",
