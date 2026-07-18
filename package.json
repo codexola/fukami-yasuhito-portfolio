@@ -1,0 +1,10 @@
+{
+  "name": "fukami-yasuhito-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Portfolio of Yasuhito Fukami — AI / Backend Engineer",
+  "scripts": {
+    "start": "npx --yes serve . -p 3000",
+    "optimize:images": "node scripts/optimize-images.js"
+  }
+}
