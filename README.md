@@ -1,21 +1,23 @@
-# Yasuhito Fukami — Portfolio
+﻿# Yasuhito Fukami — Portfolio
 
 AI / Backend Engineer portfolio for Japanese company hiring.
 
 ## Live
 
-Deployed on Vercel after push.
+- Site: https://fukami-yasuhito-portfolio.vercel.app
+- Achievements: https://fukami-yasuhito-portfolio.vercel.app/achievements
+- GitHub: https://github.com/codexola/fukami-yasuhito-portfolio
 
 ## Local
-
-Open `index.html`, or:
 
 ```bash
 npm start
 ```
 
+Or open `index.html` directly.
+
 ## Structure
 
-- `index.html` — main dashboard (Japanese achievements)
-- `achievements.html` — all projects by skill
+- `index.html` — dashboard (Japanese achievements)
+- `achievements.html` — projects by skill
 - `assets/` — portraits, resume PDFs, project previews
